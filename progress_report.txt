@@ -1,1 +1,7 @@
-This is a test file
+10/14/2012
+
+Set up the github repository 
+
+trying to set up the spring framework and make it work
+
+
