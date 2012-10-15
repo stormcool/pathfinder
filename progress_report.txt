@@ -2,6 +2,7 @@
 
 Set up the github repository 
 
-trying to set up the spring framework and make it work
+downloaded spring framework sts and try to do a mvc example as the basis for my website
 
 
+downloaded spring-mvc-showcase and was able to get it to run on the tomcat
