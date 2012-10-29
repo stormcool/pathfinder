@@ -4,5 +4,8 @@ Set up the github repository
 
 downloaded spring framework sts and try to do a mvc example as the basis for my website
 
-
 downloaded spring-mvc-showcase and was able to get it to run on the tomcat
+
+used spring tool suite to create the spring mvc project from the template view and was able to get it to run
+
+screwed up the servers folder and accidentally deleted it, probably need to reinstall the spring tool suit again
