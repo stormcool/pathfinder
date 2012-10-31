@@ -6,10 +6,10 @@
 <meta charset="utf-8"> 
 <title>Example of Table with twitter bootstrap</title> 
 <meta name="description" content="Creating a table with Twitter Bootstrap. Learn how to use Twitter Bootstrap toolkit to create Tables with examples.">
-<link href="../resources/bootstrap/css/bootstrap.css" rel="stylesheet"> 
+<link href="resources/bootstrap/css/bootstrap.css" rel="stylesheet"> 
 </head>
 <body>
-<table class="table table-striped">
+<table class="table">
         <thead>
           <tr>
             <th>Student-ID</th>
