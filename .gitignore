@@ -2,3 +2,4 @@ build/
 *.metadata
 Servers/
 *.DS_Store
+target/
